@@ -1,4 +1,4 @@
-#  Goeken Project #1
+#  **Goeken Project #1**
 This repository includes the files for Project 1
 This project aims to analyze AirPurple air-quality data using Python. The goal is to try and find potential air-quality spots that are a risk to the environment and public health.
 
